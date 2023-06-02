@@ -17,7 +17,7 @@
         <td>{{basket.productName}}</td>
         <td><img [src]="basket.productImage" width="50px" height="50px" alt=""></td>
         <td>{{basket.productPrice}}</td>
-        <td>1</td>
+        <td>{{basket.productCount}}</td>
         <td><button class="btn btn-outline-danger" (click)="delete(basket.id)" ><i class="fa fa-trash"></i></button></td>
       </tr>
     </tbody>

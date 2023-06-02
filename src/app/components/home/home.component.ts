@@ -28,6 +28,12 @@ export class HomeComponent implements OnInit {
       error:(err)=>console.log(err),
     });
   }
+  deleteProduct( id :number) {
+    this.http.delete<any>(Const.baseUrl+"products/" + id).subscribe({
+      next: ()=>this.getProducts(),
+      error:(err)=>console.log(err),
+    });
+  }
 
 
   addProduct(){

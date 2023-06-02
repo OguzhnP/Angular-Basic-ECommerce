@@ -13,23 +13,60 @@
       "id": 2
     },
     {
-      "productName": "Salatalık",
-      "productImage": "https://d1mm3tuyihn37h.cloudfront.net/wp-content/uploads/Salatalik.jpg",
-      "productPrice": 20,
-      "id": 3
-    },
-    {
-      "productName": "Patlıcan",
-      "productImage": "https://www.seraf.com.tr/patlican-sebze-989-30-B.jpg",
-      "productPrice": 34,
-      "id": 4
-    },
-    {
       "productName": "Armut",
       "productImage": "data:image/jpeg;base64,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",
       "productPrice": 200,
       "id": 5
+    },
+    {
+      "id": 7,
+      "productName": "Seda",
+      "productImage": "https://pbs.twimg.com/profile_images/1661330600681242626/-7GVmpzU_400x400.jpg",
+      "productPrice": 3
+    },
+    {
+      "id": 8,
+      "productName": "Fatmanur",
+      "productImage": "https://avatars.githubusercontent.com/u/76436684?v=4",
+      "productPrice": 3
+    },
+    {
+      "id": 9,
+      "productName": "Portakal",
+      "productImage": "https://media.licdn.com/dms/image/D4D03AQGO3QHBgc3u_A/profile-displayphoto-shrink_800_800/0/1665600796184?e=2147483647&v=beta&t=dzinCgx7beQb9Q_uqyYYU3789DEVIX4pnAc1ouCIxcw",
+      "productPrice": 3.1
+    },
+    {
+      "id": 10,
+      "productName": "İrem",
+      "productImage": "https://media.licdn.com/dms/image/D4D03AQFdlxajIaO0dQ/profile-displayphoto-shrink_800_800/0/1675976717157?e=2147483647&v=beta&t=ZiMAC6aeoEVLJjaEZQ6u59ZgS_O5-jQXl2icLtDc-60",
+      "productPrice": 3
     }
   ],
-  "baskets": []
+  "baskets": [
+    {
+      "id": 6,
+      "productName": "İrem",
+      "productImage": "https://media.licdn.com/dms/image/D4D03AQFdlxajIaO0dQ/profile-displayphoto-shrink_800_800/0/1675976717157?e=2147483647&v=beta&t=ZiMAC6aeoEVLJjaEZQ6u59ZgS_O5-jQXl2icLtDc-60",
+      "productPrice": 3
+    },
+    {
+      "id": 7,
+      "productName": "Seda",
+      "productImage": "https://pbs.twimg.com/profile_images/1661330600681242626/-7GVmpzU_400x400.jpg",
+      "productPrice": 3
+    },
+    {
+      "id": 9,
+      "productName": "Portakal",
+      "productImage": "https://media.licdn.com/dms/image/D4D03AQGO3QHBgc3u_A/profile-displayphoto-shrink_800_800/0/1665600796184?e=2147483647&v=beta&t=dzinCgx7beQb9Q_uqyYYU3789DEVIX4pnAc1ouCIxcw",
+      "productPrice": 3.1
+    },
+    {
+      "id": 8,
+      "productName": "Fatmanur",
+      "productImage": "https://avatars.githubusercontent.com/u/76436684?v=4",
+      "productPrice": 3
+    }
+  ]
 }
